@@ -337,4 +337,4 @@ function on_load(){
 	TD4.modules.modal.initialise();
 }
 
-window.onload = on_load;
+window.onload = on_load();
